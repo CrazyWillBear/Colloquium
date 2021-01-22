@@ -9,7 +9,7 @@ if [ -d "./colloq-server/bin" ]; then
   rm -r ./colloq-server/bin
 fi
 if [ -d "./colloq-client/bin" ]; then
-  rm -r ./colloq-server/bin
+  rm -r ./colloq-client/bin
 fi
 echo "Removed build files."
 
