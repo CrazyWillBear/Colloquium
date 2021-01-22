@@ -1,0 +1,11 @@
+/home/lucas/git/colloquium/colloq-server/bin/Debug/netcoreapp3.1/colloq-server
+/home/lucas/git/colloquium/colloq-server/bin/Debug/netcoreapp3.1/colloq-server.deps.json
+/home/lucas/git/colloquium/colloq-server/bin/Debug/netcoreapp3.1/colloq-server.runtimeconfig.json
+/home/lucas/git/colloquium/colloq-server/bin/Debug/netcoreapp3.1/colloq-server.runtimeconfig.dev.json
+/home/lucas/git/colloquium/colloq-server/bin/Debug/netcoreapp3.1/colloq-server.dll
+/home/lucas/git/colloquium/colloq-server/bin/Debug/netcoreapp3.1/colloq-server.pdb
+/home/lucas/git/colloquium/colloq-server/obj/Debug/netcoreapp3.1/colloq-server.csprojAssemblyReference.cache
+/home/lucas/git/colloquium/colloq-server/obj/Debug/netcoreapp3.1/colloq-server.AssemblyInfoInputs.cache
+/home/lucas/git/colloquium/colloq-server/obj/Debug/netcoreapp3.1/colloq-server.AssemblyInfo.cs
+/home/lucas/git/colloquium/colloq-server/obj/Debug/netcoreapp3.1/colloq-server.dll
+/home/lucas/git/colloquium/colloq-server/obj/Debug/netcoreapp3.1/colloq-server.pdb
