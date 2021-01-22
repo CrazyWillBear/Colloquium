@@ -17,5 +17,5 @@ git add ./*
 git commit -m "$1"
 echo "Commited files."
 
-git push -all
+git push --all
 echo "Pushed files."
